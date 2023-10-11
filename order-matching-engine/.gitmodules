@@ -1,0 +1,9 @@
+[submodule "lib/--force"]
+	path = lib/--force
+	url = https://github.com/rigtorp/SPSCQueue
+[submodule "lib/SPSCQueue"]
+	path = lib/SPSCQueue
+	url = https://github.com/rigtorp/SPSCQueue
+[submodule "lib/unordered_dense"]
+	path = lib/unordered_dense
+	url = https://github.com/martinus/unordered_dense
