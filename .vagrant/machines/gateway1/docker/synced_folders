@@ -1,1 +1,0 @@
-{"docker":{"/gateway":{"mount_options":["dmode=777","fmode=777"],"guestpath":"/gateway","hostpath":"/Users/vkakuturu/Desktop/ECs/quant/exchange/gateway","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/vkakuturu/Desktop/ECs/quant/exchange","disabled":false,"__vagrantfile":true}}}

@@ -1,1 +1,0 @@
-{"docker":{"/order-matching-engine":{"mount_options":["dmode=777","fmode=777"],"guestpath":"/order-matching-engine","hostpath":"/Users/vkakuturu/Desktop/ECs/quant/exchange/order-matching-engine","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/vkakuturu/Desktop/ECs/quant/exchange","disabled":false,"__vagrantfile":true}}}
